@@ -1,4 +1,4 @@
-# Automatic TheHunter: Call of the Wild DLC Unlocker & Activator**
+# Automatic TheHunter: Call of the Wild DLC Unlocker & Activator
 
 **COTW Manager** is a lightweight utility designed to help players detect, manage and unlock DLCs for **TheHunter: Call of the Wild**. The tool streamlines DLC verification, installation checks, and game configuration management for supported Steam versions.
 
@@ -7,6 +7,7 @@
 ## 🔗 Latest Release
 
 * **Latest Version:** `v1.0+`
+* [📦 View All Releases](https://github.com/TheHunter-CotW-DLC-Unlocker-v2/.github/releases)
 * Includes all required tool files and folders.
 
 ---
