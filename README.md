@@ -7,6 +7,7 @@
 ## 🔗 Latest Release
 
 * **Latest Version:** `v1.0+`
+* [📦 View All Releases](https://github.com/TheHunter-CotW-DLC-Unlocker-v2/.github/releases)
 * Includes all required tool files and folders.
 
 ---
